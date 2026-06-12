@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/Tests-39%20Passing-brightgreen?style=for-the-badge)
 
-End-to-end test automation suite for Amazon.com built with **Cypress**, **JavaScript**, and **Cucumber BDD**. Covers authentication, shopping workflows, checkout, account management, returns, Prime membership, and affiliate programs — **39 test cases, 100% pass rate**.
+End-to-end test automation suite for Amazon.com built with **Cypress**, **JavaScript**, and **Cucumber BDD**. Covers authentication, shopping workflows, checkout, account management, returns, Prime membership, and more.
 
 ---
 
@@ -155,8 +155,8 @@ AmazonCypressJavaScriptAutomation/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/AmazonCypressJavaScriptAutomation.git
-cd AmazonCypressJavaScriptAutomation
+git clone https://github.com/REZAULKARIM2024/Amazon-Cypress-JavaScript-Automation.git
+cd Amazon-Cypress-JavaScript-Automation
 ```
 
 **2. Install dependencies**
@@ -234,18 +234,14 @@ open cypress/results/report.html         # Mac/Linux
 
 ## 👤 Author
 
-**Rezaul Karim**
-**-Software Developer & QA Automation Engineer**
-**-GitHub: [@REZAULKARIM2024](https://github.com/REZAULKARIM2024)**
-
-
+**Rezaul Karim**  
+Software Developer & QA Automation Engineer  
+GitHub: [@REZAULKARIM2024](https://github.com/REZAULKARIM2024)
 
 ---
-
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
