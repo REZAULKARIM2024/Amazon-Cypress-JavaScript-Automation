@@ -235,8 +235,8 @@ open cypress/results/report.html         # Mac/Linux
 ## 👤 Author
 
 **Rezaul Karim**
--Software Developer & QA Automation Engineer
--GitHub: [@REZAULKARIM2024](https://github.com/REZAULKARIM2024)
+**-Software Developer & QA Automation Engineer**
+**-GitHub: [@REZAULKARIM2024](https://github.com/REZAULKARIM2024)**
 
 ---
 
